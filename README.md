@@ -21,9 +21,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ![Issues](https://img.shields.io/github/issues/shade-sdev/PassCrypt)
-![Issues](https://img.shields.io/github/forks/shade-sdev/PassCrypt)
-![Issues](https://img.shields.io/github/stars/shade-sdev/PassCrypt)
-![Issues](https://img.shields.io/github/license/shade-sdev/PassCrypt)
+![Forks](https://img.shields.io/github/forks/shade-sdev/PassCrypt)
+![Stars](https://img.shields.io/github/stars/shade-sdev/PassCrypt)
+![License](https://img.shields.io/github/license/shade-sdev/PassCrypt)
 
 
 
