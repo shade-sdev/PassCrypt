@@ -75,11 +75,20 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+1. Install & Run
+<br>
+2. Register <br> <img src="https://i.imgur.com/Pfil73s.png">
+<br>
+3. Login with password use to register <br>  <img src="https://i.imgur.com/fC7ju3e.png">
+<br>
+4. Add Credential by clicking on the blue plus(+) button <br>  <img src="https://i.imgur.com/gCkyP5D.png">
+<br>
+5. Select a Credential then click on the edit button to update it <br> <img src="https://i.imgur.com/beJuFLF.png">
+<br>
+6. Select a Credential then click on the delete button to move it to the trash, you can then click on trash, select any credential from there and click on restore to move it to the All items section
+7. Select a Credential then click on the star icon to add it to the favourites section, click on the star icon again to remove it from the favourites icon. Notice the icon change from white to yellow when you select a credential <br> <img src="https://i.imgur.com/ds8whye.png">
+8. Click on export to export a backup of all your credentials on your desktop
+9. Click on import to select an exported csv file from either google chrome or passcrypt.
 
 
 
@@ -95,9 +104,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Shade 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/shade-sdev/PassCrypt](https://github.com/shade-sdev/PassCrypt)
 
 
 
