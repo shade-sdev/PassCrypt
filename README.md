@@ -67,7 +67,7 @@ Download the installer from the release section of this project: https://github.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Can download them here, but they will be downloaded via the installer also.
 * [.NET Framework 4.8](https://download.visualstudio.microsoft.com/download/pr/7afca223-55d2-470a-8edc-6a1739ae3252/abd170b4b0ec15ad0222a809b761a036/ndp48-x86-x64-allos-enu.exe)
 * [Microsoft SQL Server 2016 LocalDB](https://download.microsoft.com/download/4/1/A/41AD6EDE-9794-44E3-B3D5-A1AF62CD7A6F/sql16_sp2_dlc/en-us/SqlLocalDB.msi)
 
@@ -90,7 +90,7 @@ This is an example of how to list things you need to use the software and how to
 8. Click on export to export a backup of all your credentials on your desktop
 9. Click on import to select an exported csv file from either google chrome or passcrypt.
 
-
+Note: Website icon url is optional, if you leave this blank, the program will try to use the website's favicon as image.
 
 
 
