@@ -50,8 +50,7 @@
 
 <img src="https://i.imgur.com/JrTGpuB.png" width="1200px" height="500px">
 
-**The aim of this project was to build an alternative for people who still uses notepad files for saving their passwords.*
-**Password's are stored on the user's machine and are encrypted.*
+**The aim of this project was to build an alternative for people who still uses notepad files for saving their passwords. Password's are stored on the user's machine and are encrypted.*
 
 
 ### Built With
