@@ -77,7 +77,7 @@ Can download them here, but they will be downloaded via the installer also.
 
 1. Install & Run
 <br>
-2. Register <br> <img src="https://i.imgur.com/Pfil73s.png">
+2. Register <br> <img src="https://i.imgur.com/IIGjOju.png">
 <br>
 3. Login with password use to register <br>  <img src="https://i.imgur.com/fC7ju3e.png">
 <br>
